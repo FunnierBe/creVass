@@ -2,7 +2,7 @@
     <img src="./docs/source/temp_logo_hq.png" width="500">
 </p>
 
-creVass is about APPLIED intelligence of plumbers.
+creVass is about the APPLIED intelligence of plumbers ... AI is all about CLEAVAGE ... what is revealed, what is taken away.
 
 * The same changes were required again and again to refactor code written by data scientists to make it ready for serving e.g. no standard way to run scripts, no standard way to handle configuration and no standard pipeline architecture.
 * Existing model serving solutions focus on serving the model rather than serving an end-to-end solution. Our machine learning projects require multiple models and glue code to tie these models together.
