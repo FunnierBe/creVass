@@ -10,7 +10,7 @@ The canyon is open for yodelling.
 
 creVass is forked from Surround which is a framework for building machine learning pipelines in Python.
 
-The folks behind **cre** ***V*** *ass* are interested in PRACTCIAL troubleshooting.  
+The folks behind *cre* ***V*** *ass* are interested in PRACTCIAL troubleshooting ... we think of it as *driving a wedgey*.  
 
 Plumbing the depths of artificial intelligence is all about CLEAVAGE ... what is hidden, what can be removed, what do we want to look at more closely. 
 
