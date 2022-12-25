@@ -8,9 +8,9 @@ Welcome to the Plumbers creVass!
 
 PRACTCIAL troubleshooting ... the depths of artificial intelligence is all about CLEAVAGE ... if you want to solve a problem, you start by taking stuff away.
 
-Learn the internals ... somebody has to do it!
+Get down into the internals ... it might be ugly, but somebody is going to have to do it!
 
-For a quick rundown on getting started with Surround see :ref:`getting-started`.
+For a quick rundown on getting started with this fork of Surround see :ref:`getting-started`.
 For more information on the aim and philosophy of Surround see :ref:`about`. Just need to learn more about a particular
 method or class? See :ref:`surround-api`.
 
