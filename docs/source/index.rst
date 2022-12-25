@@ -1,20 +1,14 @@
 .. image:: temp_logo_hq.png
     :alt: Surround
     :align: center
-    :scale: 45%
+    :scale: 25%
 
 Welcome to the Plumbers creVass!
 ================================
 
-The canyon is open for yodelling.
+PRACTCIAL troubleshooting ... the depths of artificial intelligence is all about CLEAVAGE ... if you want to solve a problem, you start by taking stuff away.
 
-creVass is forked from Surround which is a framework for building machine learning pipelines in Python.
-
-The folks behind *cre* ***V*** *ass* are interested in PRACTCIAL troubleshooting ... we think of it as *driving the ol' wedgey*.  
-
-Plumbing the depths of artificial intelligence is all about CLEAVAGE ... what is hidden, what can be removed, what do we want to look at more closely. 
-
-And since you choose to crap in water ... somebody has to do it!
+Learn the internals ... somebody has to do it!
 
 For a quick rundown on getting started with Surround see :ref:`getting-started`.
 For more information on the aim and philosophy of Surround see :ref:`about`. Just need to learn more about a particular
