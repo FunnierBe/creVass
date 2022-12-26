@@ -2,7 +2,7 @@
 Welcome to the Plumbers creVass!
 ================================
 
-*CLEAN IT UP! *Wipe out the problems ... before you add the layers of perfume.*
+**CLEAN IT UP!** *Wipe out the problems ... before you put on the Barry White and add the layers of Aqua Velva.*
 
 *Digest, annotate, simplify, revise, refactor and generally* **improve your curated data!**
 
