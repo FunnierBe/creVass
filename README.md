@@ -20,22 +20,23 @@ When you are done removing, take a nap, go for a walk, meditate ... then come ba
 
 PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION ... bad data just like extra drugs makes addiction, the side-effects and the addictions to the drugs for the side-effects worse ... **GET CLEAN** *or die*.
 
-Stop searching for another obfuscation, another imaginary fix, another drug, another product, another comfortable addiction.
 
 Genuine intelligence all comes down to the CLEAVAGE of REMOVAL.
 ===============================================================
 
-If you want to REALLY get at the solution a problem, you cannot simply cover it or worse automate your the covering in your litter box.
+Stop searching for another obfuscation, another imaginary fix, another drug, another product, another comfortable addiction. If you want to REALLY get at the solution a problem, you cannot simply cover it or worse automate your the covering in your litter box.
 
 You must start by removing, CLEAVING, hack stuff out of the away to get down to where the VALUE is ... getting down in the Big V is about what really understanding what is making things smell.
 
 After you actually understand the problem ... don't cover it up with a bandaid ... cleaning it up, polish it, make it shine so that you can see what is not shining ... make it extra CLEAN, extra shiny so that it is scrubbale and MAINTAINABLE.
 People want to crap in something that is CLEAN, tightly refactored and and something that can get even CLEANER with more use.
 
-You have to get down into the deep Whys of why things happen ... or, else you're just fuzzying up your networks of neurotic neurosis ... putting your diffuser bandaid on things does not reveal anything -- you're transforming the problem into a more impenetrable clusterfuck of complexification ... it might be ugly, but somebody is going to have to clean up the mess you  made!
-
 GET DOWN INTO THE INTERNALS
 ===========================
 
-Stop making it worse with your ARTIFICIAL intelligence ... everyone can see your intelligence is completely artificial ... knock it the fuck off with the obfuscations already.
 
+You have to get down into the deep Whys of why things happen ... or, else you're just fuzzying up your networks of neurotic neurosis ... putting your diffuser bandaid on things does not reveal anything -- you're transforming the problem into a more impenetrable clusterfuck of complexification ... it might be ugly, but somebody is going to have to clean up the mess you  made!
+
+Stop making all kinds of things worse with your ARTIFICIAL intelligence ... everyone can see that sort of intelligence is completely artificial in so many different dimensions ... knock it the fuck off with the obfuscations already.
+
+Think *fast* ... *remove*, **Remove,** **REMOVE!!!**
