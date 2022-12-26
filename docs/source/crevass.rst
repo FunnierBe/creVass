@@ -1,4 +1,4 @@
-.. _surround-api:
+.. _crevass-api:
 
 API Reference
 *****************
@@ -9,15 +9,15 @@ Here you can find documentation on all classes and their methods in Surround.
 Assembler
 ========
 
-.. autodata:: surround.assembler.Assembler
+.. autodata:: crevass.assembler.Assembler
     :no-value:
 
-    .. automethod:: surround.assembler.Assembler.init_assembler
-    .. automethod:: surround.assembler.Assembler.run
-    .. automethod:: surround.assembler.Assembler.set_config
-    .. automethod:: surround.assembler.Assembler.set_stages
-    .. automethod:: surround.assembler.Assembler.set_finaliser
-    .. automethod:: surround.assembler.Assembler.set_metrics
+    .. automethod:: crevass.assembler.Assembler.init_assembler
+    .. automethod:: crevass.assembler.Assembler.run
+    .. automethod:: crevass.assembler.Assembler.set_config
+    .. automethod:: crevass.assembler.Assembler.set_stages
+    .. automethod:: crevass.assembler.Assembler.set_finaliser
+    .. automethod:: crevass.assembler.Assembler.set_metrics
 
 
 .. automodule:: surround
