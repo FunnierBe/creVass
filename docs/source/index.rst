@@ -3,8 +3,8 @@
     :align: center
     :scale: 25%
 
-Dump your neurofuzzy syruppy-picture AI  
-=======================================
+Dump neurofuzzy syruppy-picture AI  
+==================================
 
 Do not repeat the excesses of other AI approaches ... *remove*, **Remove,** ***REMOVE*** 
 
