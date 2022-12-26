@@ -1,7 +1,6 @@
-.. image:: temp_logo_hq.png
-    :alt: Surround
-    :align: center
-    :scale: 25%
+<p align="center">
+    <img src="./docs/source/temp_logo_hq.png" width="500">
+</p>
 
 Dump neurofuzzy syruppy-picture AI  
 ==================================
