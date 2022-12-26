@@ -3,9 +3,9 @@ Dump neurofuzzy syruppy-picture AI
 
 Do not fuzz up or diffuse the image ... CLEAN up the data.
 
-Do not repeat the excesses of other AI approaches that obfuscate with irrelevant data ... *remove*, **Remove,** ***REMOVE*** ... and then polish, shine and make sure the flow will scour clean.
+Do not repeat the excesses of other AI approaches that obfuscate with irrelevant data ... *remove*, **Remove,** **REMOVE** ... and then polish, shine and make sure the flow will scour clean.
 
-PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION ... bad data just like extra drugs makes addiction, the side-effects and the addictions to the drugs for the side-effects worse ... ***GET CLEAN***.
+PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION ... bad data just like extra drugs makes addiction, the side-effects and the addictions to the drugs for the side-effects worse ... **GET CLEAN** *or die*.
 
 Stop searching for another obfuscation, another imaginary fix, another drug, another product, another comfortable addiction.
 
