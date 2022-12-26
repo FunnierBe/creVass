@@ -8,11 +8,11 @@ Dump neurofuzzy syruppy-picture AI
 
 Do not repeat the excesses of other AI approaches ... *remove*, **Remove,** ***REMOVE*** 
 
-PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION.
+PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION ... bad data make addiction worse.
 
-Stop searching for another drug, another product, another comfortable addiction.
+Stop searching for another obfuscation, another imaginary fix, another drug, another product, another comfortable addiction.
 
-Genuine intelligence all comes down to CLEAVAGE.
+Genuine intelligence all comes down to the CLEAVAGE of REMOVAL.
 
 If you want to solve a problem, you must start by removing, CLEAVING, hack stuff out of the away to get down to where the VALUE is ... getting down in the Big V is about what really understanding what is making things smell.
 
