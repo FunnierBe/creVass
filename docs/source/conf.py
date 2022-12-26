@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 project = 'creVass'
 copyright = '2023, Clichesaur.us'
-author = 'Funnier.Bet'
+author = 'Funnier.Be'
 
 # The short X.Y version
 version = '0.0.0.0.0.1'
