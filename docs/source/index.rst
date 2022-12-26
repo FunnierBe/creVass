@@ -3,14 +3,20 @@
     :align: center
     :scale: 25%
 
-NOBODY want's your complicated fur-lined syruppy-picture AI.  
-============================================================
-
-PRACTICAL troubleshooting ... the depths of artificial intelligence is all about CLEAVAGE ... if you want to solve a problem, you must start by removing, CLEAVING, hack stuff out of the away to get down to where the VALUE is ... the Big V is about what makes the s*** you need to look at actually happen.
+Dump your neurofuzzy syruppy-picture AI  
+====================++=================
 
 Do not repeat the excesses of other AI approaches ... *remove*, **Remove,** ***REMOVE*** 
 
-After you have understood ... THEN you can think about cleaning it up, polishing and making it extra CLEAN, shiny and MAINTAINABLE.
+PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION.
+
+Stop searching for another drug, another product, another comfortable addiction.
+
+Genuine intelligence all comes down to CLEAVAGE.
+
+If you want to solve a problem, you must start by removing, CLEAVING, hack stuff out of the away to get down to where the VALUE is ... getting down in the Big V is about what really understanding what is making things smell.
+
+After you actually understand the problem ... don't cover it up with a bandaid ... cleaning it up, polish it, make it shine so that you can see what is not shining ... make it extra CLEAN, extra shiny so that it is scrubbale and MAINTAINABLE.
 
 Welcome to the Plumbers creVass!
 ================================
