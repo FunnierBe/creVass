@@ -14,11 +14,9 @@ Do **not** fuzz up or diffuse your images, audio, text, smells, or tastes.
 Dump neurofuzzy syruppy-picture AI  
 ==================================
 
-*Stop repeating the idiotic excesses of conventional AI approaches.
+*Stop just repeating those idiotic excesses of conventional AI approaches.* **THINK** about what you are doing and WHY you are doing it. THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
 
-Think outside the bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... *remove*, **Remove,** **REMOVE!!!**
-
-When you are done removing, take a nap or two, then come back and REMOVE SOME MORE ... and then polish and shine and polish and shine and polish and shine to and make sure the smell is gone and the flow will scour clean.
+When you are done removing, take a nap, go for a walk, meditate ... then come back and REMOVE SOME MORE ... and then polish and shine and polish and shine and polish and shine to and make sure the smell is gone and the flow will scour clean.
 
 PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION ... bad data just like extra drugs makes addiction, the side-effects and the addictions to the drugs for the side-effects worse ... **GET CLEAN** *or die*.
 
