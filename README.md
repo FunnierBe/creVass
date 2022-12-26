@@ -2,59 +2,27 @@
     <img src="./docs/source/temp_logo_hq.png" width="500">
 </p>
 
-creVass is about the APPLIED intelligence of plumbers ... AI is all about CLEAVAGE ... what is revealed, what is taken away.
+Dump your neurofuzzy syruppy-picture AI  
+=======================================
 
-* The same changes were required again and again to refactor code written by data scientists to make it ready for serving e.g. no standard way to run scripts, no standard way to handle configuration and no standard pipeline architecture.
-* Existing model serving solutions focus on serving the model rather than serving an end-to-end solution. Our machine learning projects require multiple models and glue code to tie these models together.
-* Existing serving approaches do not allow for the evolution of a machine learning pipeline without re-engineering the solution i.e. using a cloud API for the first release before training a custom model much later on.
-* Code was commonly being commented out to run other branches as experimentation was not a first class citizen in the code being written.
+Do not repeat the excesses of other AI approaches ... *remove*, **Remove,** ***REMOVE*** 
 
+PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION.
 
-## Simple usage
+Stop searching for another drug, another product, another comfortable addiction.
 
-A short explanation is provided in the hello-world example's [README](examples/hello-world/) file.
-```python
-import logging
-from surround import State, Stage, Estimator, Assembler, RunMode
+Genuine intelligence all comes down to CLEAVAGE.
 
-class HelloWorld(Estimator):
-    def estimate(self, state, config):
-        state.text = "Hello world"
+If you want to solve a problem, you must start by removing, CLEAVING, hack stuff out of the away to get down to where the VALUE is ... getting down in the Big V is about what really understanding what is making things smell.
 
-    def fit(self, state, config):
-        print("No training implemented")
+After you actually understand the problem ... don't cover it up with a bandaid ... cleaning it up, polish it, make it shine so that you can see what is not shining ... make it extra CLEAN, extra shiny so that it is scrubbale and MAINTAINABLE.
 
-class InputValidator(Stage):
-    def operate(self, state, config):
-        if state.text:
-            raise ValueError("'text' is not None")
+Welcome to the Plumbers creVass!
+================================
+People want to crap in something that is CLEAN, tightly refactored and and something that can get even CLEANER with more use.
 
-class AssemblerState(State):
-    text = None
+You have to get down into the deep Whys of why things happen ... or, else you're just fuzzying up your networks of neurotic neurosis ... putting your diffuser bandaid on things does not reveal anything -- you're transforming the problem into a more impenetrable clusterfuck of complexification ... it might be ugly, but somebody is going to have to clean up the mess you  made!
 
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
-    data = AssemblerState()
-    assembler = Assembler("Hello world example").set_stages([InputValidator(), HelloWorld()])
-    assembler.run(data, mode=RunMode.PREDICT)
-    print("Text is '%s'" % data.text)
-```
+GET DOWN INTO THE INTERNALS.
 
-## Examples
-
-See the [examples](https://github.com/dstil/surround/tree/master/examples) directory for useful examples on how Surround can be utilized.
-
-## Full Documentation
-See [our website](https://surround.readthedocs.io/) for an in-depth explanation of Surround (in the About page), a Getting Started Guide, and full documentation of the API.
-
-## Contributing
-
-For guidance on setting up a development environment and how to make a contribution to Surround, see the [contributing guidelines](docs/CONTRIBUTING.md).
-
-
-## License
-
-Surround is released under a [BSD-3](https://opensource.org/licenses/BSD-3-Clause) license.
-
-## Project Status
-Surround is currently under **heavy** development, please submit any issues that occur or suggestions you may have, it is very much appreciated!
+Stop making it worse with your ARTIFICIAL intelligence ... everyone can see your intelligence is completely artificial ... knock it the fuck off with the obfuscations already.
