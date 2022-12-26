@@ -19,14 +19,14 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Surround'
-copyright = '2019, Scott Barnett'
-author = 'Scott Barnett'
+project = 'creVass'
+copyright = '2023, Clichesaur.us'
+author = 'Funnier.Bet'
 
 # The short X.Y version
-version = '0.0.9'
+version = '0.0.0.0.0.1'
 # The full version, including alpha/beta/rc tags
-release = '0.0.9'
+release = 'PRE-pre-pre 0.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -108,7 +108,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'surrounddoc'
+htmlhelp_basename = 'crevassdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -135,8 +135,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'surround.tex', 'surround Documentation',
-     'Scott Barnett', 'manual'),
+    (master_doc, 'crevass.tex', 'creVass Documentation',
+     'Funnier.Be', 'manual'),
 ]
 
 
@@ -145,7 +145,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'surround', 'surround Documentation',
+    (master_doc, 'crevass', 'creVass Documentation',
      [author], 1)
 ]
 
@@ -156,8 +156,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'surround', 'surround Documentation',
-     author, 'surround', 'One line description of project.',
+    (master_doc, 'crevass', 'creVass Documentation',
+     author, 'crevass', 'One line description of project.',
      'Miscellaneous'),
 ]
 
