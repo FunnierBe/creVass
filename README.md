@@ -2,8 +2,8 @@
     <img src="./docs/source/temp_logo_hq.png" width="500">
 </p>
 
-Dump your neurofuzzy syruppy-picture AI  
-=======================================
+Dump neurofuzzy syruppy-picture AI  
+==================================
 
 Do not repeat the excesses of other AI approaches ... *remove*, **Remove,** ***REMOVE*** 
 
