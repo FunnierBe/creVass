@@ -12,6 +12,8 @@ t's just like those engineering handbook instructions used by HVAC installers as
 Dump your fuzzy syrup-picture AI  
 ================================
 
+**Knock off the fuzzification!**
+
 Plumbing has always been about covering up stuff so that nobody knows how that shit goes together.  It's the same with stuff like artificial intelligence or maybe worse. 
 
 Actually, it's pretty simple ... creVass AI is about SIMPLIFICATION, which is tough for people to understand because people like believing things are more complicated than they are.
