@@ -3,7 +3,7 @@ creVass
 
 *Relax, take a deep breath ... we haven't even bent over and exposed our cleavage yet!*
 
-*cre*_**V**_*ass* is an AI-driven plumbing/HVAC micro-aggression framework ... an RSS feed newsreader, with a *NOSE* for the good stuff.
+*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... an RSS feed newsreader, with a *NOSE* for the good stuff.
 
 Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of stuff everybody knows, but would rather not think about. 
 
