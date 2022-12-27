@@ -9,7 +9,7 @@ Sip from creVass every day for your dose of annoying, but obvious intelligence .
 
 t's just like those engineering handbook instructions used by HVAC installers as kneepads ... when HVAC techs are installing a furnace exhaust wrong ... and it works because the service calls keep coming.
 
-Dump neurofuzzy syrup-picture AI  
+Dump your fuzzy syrup-picture AI  
 ================================
 
 Plumbing has always been about covering up stuff so that nobody knows how that shit goes together.  It's the same with stuff like artificial intelligence or maybe worse. 
