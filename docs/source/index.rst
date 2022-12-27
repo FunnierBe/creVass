@@ -1,22 +1,28 @@
-Welcome to the Plumbers creVass!
-================================
+creVass
+=======
 
-**CLEAN IT UP!** *Wipe out the problems ... before you put on the Barry White and add the layers of Aqua Velva.*
+*Relax, take a deep breath ... we haven't even bent over and exposed our cleavage yet!*
 
-*Digest, annotate, simplify, revise, refactor and generally* **improve your curated data!**
+*cre*_**V**_*ass* is an AI-driven plumbing/HVAC micro-aggression framework ... an RSS feed newsreader, with a *NOSE* for the good stuff.
 
-Do **not** fuzz up or diffuse your images, audio, text, smells, or tastes.
+Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of stuff everybody knows, but would rather not think about. 
+
+t's just like those engineering handbook instructions used by HVAC installers as kneepads ... when HVAC techs are installing a furnace exhaust wrong ... and it works because the service calls keep coming.
 
 Dump neurofuzzy syrup-picture AI  
 ================================
 
-*Stop just repeating those idiotic excesses of conventional AI approaches.* 
+Plumbing has always been about covering up stuff so that nobody knows how that shit goes together.  It's the same with stuff like artificial intelligence or maybe worse. 
 
-This is not about a text-to-picture app that draws a diagram of how you are going to murder the dumbass who installed your furnace bassackward!
+Actually, it's pretty simple ... creVass AI is about SIMPLIFICATION, which is tough for people to understand because people like believing things are more complicated than they are.
 
-Just try to deal with Reality as Reality really is ... and laugh about the NATE-certified idiots out there smoking dope on their way to service calls and using engineering instructions as kneepads because they can't focus on anything long enough to read it.
+*Stop just repeating those idiotic excesses of conventional AI approaches.* creVass is not about a text-to-picture app that draws a diagram of how you are going to murder the dumbass who installed your furnace exhaust bassackward!
 
-**THINK** about what you are doing and WHY you are doing it. THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
+Just assess the situation, take some readings, learn how to turn that multimeter on and put batteries in, use the right end of a screwdriver and try to deal with Reality as Reality really is ... and laugh about the NATE-certified idiots out there smoking dope on their way to service calls and using engineering instructions as kneepads because they can't focus on anything long enough to read it.
+
+Mostly, creVass is about helping you to just **THINK** ... to relax and just THINK about what you are doing, *WHY you are doing it,* **WHY you're a loser and your life is fucked and you are always going to be stuck doing this!** 
+
+No ... stop it!  THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
 
 When you are done removing, take a nap, go for a walk, meditate ... then come back and REMOVE SOME MORE ... and then polish and shine and polish and shine and polish and shine to and make sure the smell is gone and the flow will scour clean.
 
