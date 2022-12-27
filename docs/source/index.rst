@@ -10,7 +10,7 @@ Remember to flash the Big V!
 
 Because we haven't even bent over and exposed all of our cleavage yet!  *There's MORE!*
 
-*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids
+*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids ... like a troubleshooting newsreader that's going [work in the background, like a progressive web app] to get you the detailed intell on stuff related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
 
 The AI is there to to help you with troubleshooting, but YOU build the AI and curate/optimize the data/models which drive the answers you pull out of your creVass.
 
@@ -18,7 +18,7 @@ So creVass is somewhat like a more pure, less evil, more helpful, less-annoying,
 
 And YOU control the development and infrastructure-as-code, ie you can host the infrusture from your box, laptop, IoT device or even just your Linux/Android phone.
 
-So, unlike your favorite browser, you are not giving someone the bandwidth to hang you with ... it's just pure stream of nothing but txt with no scripting bs, no video or anything else that can get in your creVass -- nothing but txt and ONLY txt means everything about the architecture of your creVass can be CLEAN ... and a CLEAN creVass means that **NOBODY else will have any reason to have their nose up YOUR private creVass!**
+So, unlike your favorite browser, you are not giving someone the bandwidth to hang you with ... it's just pure stream of nothing but txt with no scripting bs that can get into your creVass -- you can shoot pictures, take videos as data inputs for your AI to use -- but everything about the architecture of your creVass can be CLEAN and SECURE ... and a CLEAN creVass means that **NOBODY else will have any reason to have their nose up YOUR private creVass!**
 
 Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of simplistic conspiracy theory crap that everybody sorta knows, but would rather blame on their favorite people to blame stuff on. 
 
