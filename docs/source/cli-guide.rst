@@ -1,7 +1,7 @@
-Command-line Interface
+Command-line InterVass
 ======================
 
-The following is a list of the sub-commands contained in Surround's CLI tool.
+The following is a list of the sub-commands contained in creVass's CLI tool.
 
 surround
 ^^^^^^^^
