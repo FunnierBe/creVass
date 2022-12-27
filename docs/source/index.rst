@@ -5,7 +5,7 @@ creVass
 
 *creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... an RSS feed newsreader, with a *NOSE* for the good stuff.
 
-Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of stuff everybody knows, but would rather not think about. 
+Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of simplistic conspiracy theory crap that everybody sorta knows, but would rather blame on their favorite people to blame stuff on. 
 
 It's not really any different than those engineering handbook instructions used by HVAC installers as kneepads ... when HVAC techs are installing a furnace exhaust wrong ... and it works because the service calls keep coming.
 
