@@ -1,9 +1,9 @@
 The Big V is for creVass
 ========================
 
-When somebody flash the *Big V* sign with their two fingers ... it's a code ... you know that person is hip to the creVass jiVe!
+When somebody flashes the *Big V* sign with their two fingers ... it's semiotics ... a sign ... you know that person is hip to the creVass jiVe!
 
-Remember to flash the Big V!  
+It's sort of like genuflection ... remember to show the heathens your creVass ... remember to flash the Big V!  
 
 
 *You can relax, take a deep breath ...* 
