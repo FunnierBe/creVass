@@ -3,7 +3,7 @@ creVass
 
 *Relax, take a deep breath ... we haven't even bent over and exposed our cleavage yet!*
 
-*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... an RSS feed newsreader, with a *NOSE* for the good stuff.
+*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids ... just like a browser EXCEPT, creVass is open source and you control the development and infrastructure-as-code, ie you can host the infrusture from your box, laptop, IoT device or even just your Linux/Android phone  ... so, unlike a browser, nobody else will have *their* **nose** up YOUR creVass!
 
 Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of simplistic conspiracy theory crap that everybody sorta knows, but would rather blame on their favorite people to blame stuff on. 
 
