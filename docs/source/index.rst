@@ -1,11 +1,24 @@
-creVass
-=======
+The Big V is for creVass
+========================
 
-*Relax, take a deep breath ... we haven't even bent over and exposed our cleavage yet!*
+When somebody flash the *Big V* sign with their two fingers ... it's a code ... you know that person is hip to the creVass jiVe!
 
-*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids ... the AI is to help you with troubleshooting, but you build the AI and curate the data/models that drive it
+Remember to flash the Big V!  
 
-So creVass os somewhat like a HELPFUL, recommendation-engine driven browser ... which Chromium/Chrome could be, if Chromium/Chrome didn't absolutely SUCK and expose people to all kinds of CRIMINAL privacy violations ... in other words, creVass is the *actually, no, REALLY* OPEN kind of *open* source and you control the development and infrastructure-as-code, ie you can host the infrusture from your box, laptop, IoT device or even just your Linux/Android phone  ... so, unlike a browser, nobody else will have *their* **nose** up YOUR creVass!
+
+*You can relax, take a deep breath ...* 
+
+Because we haven't even bent over and exposed all of our cleavage yet!  *There's MORE!*
+
+*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids
+
+The AI is there to to help you with troubleshooting, but YOU build the AI and curate/optimize the data/models which drive the answers you pull out of your creVass.
+
+So creVass is somewhat like a more pure, less evil, more helpful, less-annoying, recommendation-engine-driven browser ... which Chromium/Chrome *could be* if the folks at AlphaF*** actually wanted to help, *without bending people over* and exposing people to all kinds of CRIMINAL info rookter violations ... in other words, creVass is the open *no, actually, it's REALLY* OPEN kind of *open* source extensible library you can visit without catching something. 
+
+And YOU control the development and infrastructure-as-code, ie you can host the infrusture from your box, laptop, IoT device or even just your Linux/Android phone.
+
+So, unlike your favorite browser, you are not giving someone the bandwidth to hang you with ... it's just pure stream of nothing but txt with no scripting bs, no video or anything else that can get in your creVass -- nothing but txt and ONLY txt means everything about the architecture of your creVass can be CLEAN ... and a CLEAN creVass means that **NOBODY else will have any reason to have their nose up YOUR private creVass!**
 
 Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of simplistic conspiracy theory crap that everybody sorta knows, but would rather blame on their favorite people to blame stuff on. 
 
