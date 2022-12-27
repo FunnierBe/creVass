@@ -6,7 +6,7 @@ When somebody flashes the *Big V* sign with their two fingers ... it's semiotics
 It's sort of like genuflection ... remember to show the heathens your creVass ... remember to flash the Big V!  
 
 
-*You can relax, take a deep breath ...* 
+You can relax, take a deep breath ...*maybe let your trousers ride a few inches lower ... just let the pride of knowing glow from your creVass.* 
 
 Because we haven't even bent over and exposed all of our cleavage yet!  *There's MORE!*
 
