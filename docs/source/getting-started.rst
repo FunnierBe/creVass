@@ -15,7 +15,7 @@ Prerequisites
 
 Hah!!!
 
-- Python (wtf is that?) 3+ (Tested on 3.6.5) ... Happy *365* days to you, buddy ... no since worrying about a year, when we gotta make'r one day at a time, sweet geezus.
+- Python (wtf is that?) 3+ (Tested on 3.6.5) ... *Happy 365 days to you, buddy ... no since worrying about a year, when we gotta make'r one day at a time, sweet geezus.*
 - Docker (like something that float?)
 - Supports MacOS, Linux, and Windows
 
