@@ -7,7 +7,9 @@ creVass
 
 Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of stuff everybody knows, but would rather not think about. 
 
-t's just like those engineering handbook instructions used by HVAC installers as kneepads ... when HVAC techs are installing a furnace exhaust wrong ... and it works because the service calls keep coming.
+It's not really any different than those engineering handbook instructions used by HVAC installers as kneepads ... when HVAC techs are installing a furnace exhaust wrong ... and it works because the service calls keep coming.
+
+Let's just get to root cause and actually FIX this so that it stays fixed ... along the way, maybe we can ask ourselves why we thought that complexicating and hiding shit was a good idea *but let's not get too political, right off the bat ...*.
 
 Dump your fuzzy syrup-picture AI  
 ================================
