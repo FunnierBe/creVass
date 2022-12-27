@@ -1,20 +1,30 @@
 .. _getting-started:
 
-Getting Started
-===============
+Don't Get Me Started
+====================
 
 Installation
 ************
 
+Hah! It'll go together or it won't.
+
+
 Prerequisites
 ^^^^^^^^^^^^^
 
-- Python 3+ (Tested on 3.6.5)
-- Docker
+
+Hah!!!
+
+- Python (wtf is that?) 3+ (Tested on 3.6.5)
+- Docker (like something that float?)
 - Supports MacOS, Linux, and Windows
 
 Install via Pip
 ^^^^^^^^^^^^^^^
+
+The creVass website was originally forked from Surrond ... who knows what Surround does?
+
+ 
 Run the following command to install the latest version of Surround::
     
     $ pip3 install surround
