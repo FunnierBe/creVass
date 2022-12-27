@@ -7,10 +7,16 @@ Welcome to the Plumbers creVass!
 
 Do **not** fuzz up or diffuse your images, audio, text, smells, or tastes.
 
-Dump neurofuzzy syruppy-picture AI  
-==================================
+Dump neurofuzzy syrup-picture AI  
+================================
 
-*Stop just repeating those idiotic excesses of conventional AI approaches.* **THINK** about what you are doing and WHY you are doing it. THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
+*Stop just repeating those idiotic excesses of conventional AI approaches.* 
+
+This is not about a text-to-picture app that draws a diagram of how you are going to murder the dumbass who installed your furnace bassackward!
+
+Just try to deal with Reality as Reality really is ... and laugh about the NATE-certified idiots out there smoking dope on their way to service calls and using engineering instructions as kneepads because they can't focus on anything long enough to read it.
+
+**THINK** about what you are doing and WHY you are doing it. THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
 
 When you are done removing, take a nap, go for a walk, meditate ... then come back and REMOVE SOME MORE ... and then polish and shine and polish and shine and polish and shine to and make sure the smell is gone and the flow will scour clean.
 
