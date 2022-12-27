@@ -6,11 +6,11 @@ When somebody flashes the *Big V* sign with their two fingers ... it's semiotics
 It's sort of like genuflection ... remember to show the heathens your creVass ... remember to flash the Big V!  
 
 
-You can relax, take a deep breath ...*maybe let your trousers ride a few inches lower ... just let the pride of knowing glow from your creVass.* 
+*You can relax, take a deep breath, maybe let your trousers ride a few inches lower ... let the pride of knowing glow from your creVass.* 
 
-Because we haven't even bent over and exposed all of our cleavage yet!  *There's MORE!*
+Because we haven't even bent over and exposed all of our cleavage yet!  You might be thinking, "This is already enough for me ... but, you know *there's MORE!*"
 
-*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids ... like a troubleshooting newsreader that's going about its business [working in the background, like a progressive web app] getting you the **detailed** intell, eg schematics, techdox, fora discussions, etc on stuff precisely-related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
+*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids ... it's YOUR troubleshooting app crossed with a newsreader with YOUR content feeds ... it will go about its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, fora discussions, etc ... but from YOUR sources, from your CURATED datafeeds, to be precisely-related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
 
 The AI is there to to help you with troubleshooting, but YOU build the AI and curate/optimize the data/models which drive the answers you pull out of your creVass.
 
