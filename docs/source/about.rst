@@ -3,50 +3,29 @@
 About
 =====
 
-What is Surround?
-*************************
+What is creVass?
+****************
 
-Surround is an open-source framework developed by the `Applied Artificial Intelligence Institute <https://a2i2.deakin.edu.au/>`_ (`A`:superscript:`2`\ `I`:superscript:`2`) to take machine
-learning solutions through from exploration all the way to production. For this reason, it is developed with both
-research engineers and software developers in mind. Designed to play nice with existing machine learning frameworks
-(Tensorflow, MXNet, PyTorch, etc) and cloud services (Google Cloud AI, SageMaker, Rekognition etc), engineers have the freedom
-to use whatever necessary to solve their problem.
+creVass is an AI-driven plumbing micro-aggression framework. 
 
-A Philosophy
-^^^^^^^^^^^^
+**Sniff the creVass** with your coffee with for your curated dose of annoying and obvious intelligence which nobody wants dig out of the creVass.
 
-Surround isn't just a framework, its also a philosophy. From the moment data lands on our desk we need to be thinking about the
-final use case for the solutions we are developing. To reduce the amount of time between data exploration and a containerised
-proof-of-concept web application ready to be deployed, Surround was built to resolve some competing requirements of both researchers
-and engineers. Where in general researchers want to dive into the data and leave code quality to later, and engineers prefer
-well structured code from the start. We attempt to solve this problem with Surround by introducing a "production first" mindset and
-providing conventions for researchers (a separate folder for data exploration scripts). 
+TL;DR
 
-Long ago, web frameworks realised there are a set of concerns that almost all web applications must deal with, such as connecting
-to databases, managing configuration, rendering static and dynamic content, and handling security concerns. Machine Learning projets
-have similar concerns but also have their own set of special concerns such as:
+It's just like those engr handbook instructions used by HVAC installers as kneepads when they're installing a furnace exhaust wrong so that the service calls keep coming.
 
-- Experimentation is a first class citizen
-- Data and models need to be versioned and managed
-- Model performance needs to be visualized
-- Training infrastructure is required
-- Etc..
+Philosophy
+^^^^^^^^^^
 
-Surround strives to provide a **single place** for every concern that arises when building a ML project. Ideally there will be a single
-solution to any concerns that occur to either the research engineer or the software developer. But to be the **single place** for ML projects
-we are going to have to support as many existing frameworks, libraries and APIs as we can. This can be seen reflected in the design of Surround
-where the Core framework could be used to build:
+If not for plumbers and HVAC technicians, who else would install the shit that you depend on WRONG?  You can't fuck this stuff up that badly on your own so do not try.
 
-- A solution based on cloud APIs
-- A custom Docker image for SageMaker
-- Form part of a batch process running on an internal Kubernetes cluster
-
-By **playing nice with others** we hope the core Surround framework can continue to be used as the ML ecosystem evolves.
 
 A set of conventions
 ^^^^^^^^^^^^^^^^^^^^
 
-Surround attempts to enforce a set of conventions to help researchers keep their solutions structured for software developers and
+creVass was originally forked from Surround ... and we have not gotten around to understanding what Surround does or tries to do yet ... but the following might be useful stuff to screw up.
+
+Apparently, Surround attempts to enforce a set of conventions to help researchers keep their solutions structured for software developers and
 implements solutions for common ML project concepts such as managing configuration so that they don't have to.
 
 These conventions are adhered to through the use of a project generator and project linter that will check for the core conventions.
