@@ -11,9 +11,11 @@ The creVass RSSistant is a gamechanger ... a lot like when Dave Lennox invented 
 
 We at creVass claim that our RSSistant will do for lives that are led according to recommendation engines and sentiment analysis what indoor plumbing did for the world of real estate. 
 
-**creVass is the AI-driven MOVEMENT ... the RSSistant the plumbing/HVAC micro-aggression news aggregator you've have been waiting for!**
+**creVass is the AI-driven MOVEMENT!**
 
-Maybe you waiting for a different kind of a movement ... well, hear this one out!
+*And the RSSistant the plumbing/HVAC micro-aggression news aggregator you've have been waiting for!*
+
+Okay, maybe you waiting for a different kind of a movement ... but, this one will not be denied!
 
 Don't you need an ongoing core dump to cross-fertilize your ideas in ways you didn't foresee, plan or particularly want ... *does a bear shit in the woods?*
 
