@@ -30,7 +30,7 @@ It's not really any different than the detailed technical information undperinni
 You do not have to live in the dark ... you can actually start learning how to get down to root cause and actually FIX this so that it stays fixed ... along the way, maybe we can ask ourselves why we thought that complexicating and hiding shit was a good idea *but let's not get too political, right off the bat ...*.
 
 Do not use fuzzy syrup-picture AI  
-==========+======================
+=================================
 
 **Knock off all fuzzification!**  UNDERSTAND root cause from first principles ... ultimately, understanding how the world works will take you down to ab initio chemistry, particle physics and things like string theory.
 
