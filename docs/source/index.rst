@@ -1,27 +1,31 @@
 creVass - Social Plumbing
 =========================
 
-*We can tell by your smile that you are happy to see us ... and we haven't even bent over and exposed all of our cleavage yet!*  
+*We can tell by your smile that you are happy to see us ... and we haven't even bent over and exposed any of our cleavage yet!*  
 
-The RSSisant is a game changer in social network ... because it enables smart, hypernetworked plumbing ... your shitter will never be lonely again. This is a lot like when Dave Lennox invented indoor heating so that people could crap in water; they started flushing their turds and became terrified of running out of toilet paper. 
+The RSSisant is a game changer in the tired old social network industry ... because it's not about shuffle challenges or night full of s-wiping ... creVass is all about a smart, hypernetworked plumbing RSSistant with an attitude!  
+
+You and reading list will never be a lone again!  
+
+The creVass RSSistant is a gamechanger ... a lot like when Dave Lennox invented indoor heating so that people could crap in water; they started flushing their turds and became terrified of running out of toilet paper. 
 
 We at creVass claim that our RSSistant will do for lives that are led according to recommendation engines and sentiment analysis what indoor plumbing did for the world of real estate. 
 
-**creVass is the AI-driven MOVEMENT ... it's the plumbing/HVAC micro-aggression news aggregator you've have been waiting for!**
+**creVass is the AI-driven MOVEMENT ... the RSSistant the plumbing/HVAC micro-aggression news aggregator you've have been waiting for!**
 
 Maybe you waiting for a different kind of a movement ... well, hear this one out!
 
 Don't you need an ongoing core dump to cross-fertilize your ideas in ways you didn't foresee, plan or particularly want ... *does a bear shit in the woods?*
 
-**creVass is like a plumbing SURPRISE ... except that it's social ... and thus more crowdly and smarter than you are!**
+**creVass is like a plumbing SURPRISE ... except that the RSSistant social ... and thus more crowdly and smarter than you are!**
 
-*After creVass ... you may never look at two guys uncomfortably crammed into a tight stall in the MSP airport in the same way again ... *
+*After slipping some info into your social creVass ... you may never look at two guys uncomfortably crammed into a tight stall in the MSP airport in the same way again ... *
 
-This intell scooper is AI-driven using content metadata infused with crowdsourced commentary, which is sorta like StackOverflow, except this is plumbing intell, so you know it has traces of cannabis and some of the good stuff in its UA ... a smartRSS feedreader on AI 'roids.
+The social creVass RSSsistant is an AI-driven intell scooper that uses using technical content metadata infused with crowdsourced commentary, which is sorta like StackOverflow, except this is plumbing schematics and other intell, so you know it also has traces of cannabis and some of the good stuff in its UA ... a smartRSS feedreader on AI 'roids.
 
-Seriously, it is something of a troubleshooting knowledge-graph infused with a dose of levity ... just enough humorous asshat commentary from the HVAC tech peanut gallery, to occasionally be unintentionally useful in ways that asshat does not understand himself.
+The RSSistant navigation interface will be troubleshooting knowledge-graph infused with a dose of levity ... lots of schematics and data sheets with just enough humorous asshat commentary from the HVAC tech peanut gallery, to occasionally be unintentionally useful in ways that asshats never understand themselves.
 
-At it's core, it's an RSSistant ... a tool which YOU configure ... starting with YOUR best Plumbing Intell content feeds ... but also editing out the noise.
+At it's core ... the dump you put into your RSSistant ... is like a tool which YOU configure, but might come back to bite you ... starting with YOUR best Plumbing Intell content feeds ... but also editing in the noise.
 
 The creVass RSSistant will do its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, idiotic YouTube commentary, fora discussions, etc ... 
 
