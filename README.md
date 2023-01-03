@@ -9,11 +9,13 @@ creVass - Plumbing RSSistant
 
 You might be thinking, "Whoa, Mister! This is already too much for me; I feel like gagging ... no not A** ... RSSistant starts with an R!*"
 
-**creVass is an AI-driven plumbing/HVAC micro-aggression framework.**
+**creVass is an AI-driven plumbing/HVAC micro-aggression news aggregator**
 
-It's about news aggregation and content metadata ... a smartRSS feedreader on AI 'roids ... something of a troubleshooting knowledge graph app crossed with humorous comments from the peanut gallery, which occasionally happen to be useful.
+It's about AI driven by content metadata and crowdsourced commentary [like StackOverflow, but plumbing Intell] ... a smartRSS feedreader on AI 'roids ... something of a troubleshooting knowledge-graph infused with notes of humorous asshat commentary from the HVAC tech peanut gallery, which is occasionally unintentionally useful.
 
-This is an RSSistant with YOUR best Plumbing Intell content feeds ... it will do its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, idiotic YouTube commentary, fora discussions, etc ... 
+This is an RSSistant ... which YOU configure ... starting with YOUR best Plumbing Intell content feeds ... but also editing out the dillweeds.
+
+The creVass RSSistant will do its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, idiotic YouTube commentary, fora discussions, etc ... 
 
 But it will get disgusting smarter ... learning from YOUR sources, from your CURATED datafeeds, your fuck-ups, your bad relationships, all of the stupid shit that you have gotten yourself into ... to cough up furr balls that are precisely-related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
 
