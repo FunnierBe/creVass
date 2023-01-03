@@ -5,7 +5,7 @@ creVass - Social Plumbing
 
 The RSSisant is a game changer in the tired old social network industry ... because it's not about shuffle challenges or night full of s-wiping ... creVass is all about a smart, hypernetworked plumbing RSSistant with an attitude!  
 
-You and reading list will never be a lone again!  
+You and reading list will never be a loan again!  
 
 The creVass RSSistant is a gamechanger ... a lot like when Dave Lennox invented indoor heating so that people could crap in water; they started flushing their turds and became terrified of running out of toilet paper. 
 
