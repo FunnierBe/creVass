@@ -11,9 +11,13 @@ You might be thinking, "Whoa, Mister! This is already too much for me; I feel li
 
 **creVass is an AI-driven plumbing/HVAC micro-aggression news aggregator**
 
-It's about AI driven by content metadata and crowdsourced commentary [like StackOverflow, but plumbing Intell] ... a smartRSS feedreader on AI 'roids ... something of a troubleshooting knowledge-graph infused with notes of humorous asshat commentary from the HVAC tech peanut gallery, which is occasionally unintentionally useful.
+Do you need an ongoing core dump to cross-fertilize your ideas ... *does a bear shit in the woods?*
 
-This is an RSSistant ... which YOU configure ... starting with YOUR best Plumbing Intell content feeds ... but also editing out the dillweeds.
+This intell scooper is AI-driven using content metadata infused with crowdsourced commentary, which is sorta like StackOverflow, except this is plumbing intell, so you know it has traces of cannabis and some of the good stuff in its UA ... a smartRSS feedreader on AI 'roids.
+
+Seriously, it is something of a troubleshooting knowledge-graph infused with a dose of levity ... just enough humorous asshat commentary from the HVAC tech peanut gallery, to occasionally be unintentionally useful in ways that asshat does not understand himself.
+
+At it's core, it's an RSSistant ... a tool which YOU configure ... starting with YOUR best Plumbing Intell content feeds ... but also editing out the noise.
 
 The creVass RSSistant will do its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, idiotic YouTube commentary, fora discussions, etc ... 
 
@@ -74,3 +78,4 @@ You have to get down into the deep Whys of why things happen ... or, else you're
 Stop making all kinds of things worse with your ARTIFICIAL intelligence ... everyone can see that sort of intelligence is completely artificial in so many different dimensions ... knock it the fuck off with the obfuscations already.
 
 Think *fast* ... *remove*, **Remove,** **REMOVE!!!**
+
