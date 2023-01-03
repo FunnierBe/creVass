@@ -1,13 +1,21 @@
-creVass - Plumbing RSSistant
-============================
+creVass - Social Plumbing
+=========================
 
 *We can tell by your smile that you are happy to see us ... and we haven't even bent over and exposed all of our cleavage yet!*  
 
-You might be thinking, "Whoa, Mister! This is already too much for me; I feel like gagging ... no not A** ... RSSistant starts with an R!*"
+The RSSisant is a game changer in social network ... because it enables smart, hypernetworked plumbing ... your shitter will never be lonely again. This is a lot like when Dave Lennox invented indoor heating so that people could crap in water; they started flushing their turds and became terrified of running out of toilet paper. 
 
-**creVass is an AI-driven plumbing/HVAC micro-aggression news aggregator**
+We at creVass claim that our RSSistant will do for lives that are led according to recommendation engines and sentiment analysis what indoor plumbing did for the world of real estate. 
 
-Do you need an ongoing core dump to cross-fertilize your ideas ... *does a bear shit in the woods?*
+**creVass is the AI-driven MOVEMENT ... it's the plumbing/HVAC micro-aggression news aggregator you've have been waiting for!**
+
+Maybe you waiting for a different kind of a movement ... well, hear this one out!
+
+Don't you need an ongoing core dump to cross-fertilize your ideas in ways you didn't foresee, plan or particularly want ... *does a bear shit in the woods?*
+
+**creVass is like a plumbing SURPRISE ... except that it's social ... and thus more crowdly and smarter than you are!**
+
+*After creVass ... you may never look at two guys uncomfortably crammed into a tight stall in the MSP airport in the same way again ... *
 
 This intell scooper is AI-driven using content metadata infused with crowdsourced commentary, which is sorta like StackOverflow, except this is plumbing intell, so you know it has traces of cannabis and some of the good stuff in its UA ... a smartRSS feedreader on AI 'roids.
 
