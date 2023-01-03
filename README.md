@@ -2,19 +2,51 @@
     <img src="./docs/source/temp_logo_hq.png" width="250">
 </p>
 
-Welcome to the Plumbers creVass!
+creVass - Plumbing RSSistant
+============================
+
+*We can tell by your smile that you are happy to see us ... and we haven't even bent over and exposed all of our cleavage yet!*  
+
+You might be thinking, "Whoa, Mister! This is already too much for me; I feel like gagging ... no not A** ... RSSistant starts with an R!*"
+
+**creVass is an AI-driven plumbing/HVAC micro-aggression framework.**
+
+It's about news aggregation and content metadata ... a smartRSS feedreader on AI 'roids ... something of a troubleshooting knowledge graph app crossed with humorous comments from the peanut gallery, which occasionally happen to be useful.
+
+This is an RSSistant with YOUR best Plumbing Intell content feeds ... it will do its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, idiotic YouTube commentary, fora discussions, etc ... 
+
+But it will get disgusting smarter ... learning from YOUR sources, from your CURATED datafeeds, your fuck-ups, your bad relationships, all of the stupid shit that you have gotten yourself into ... to cough up furr balls that are precisely-related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
+
+The AI is there to to help you with troubleshooting, but YOU build the AI and curate/optimize the data/models which drive the answers you pull out of your creVass.
+
+So creVass is somewhat like a more pure, less evil, more helpful, less-annoying, recommendation-engine-driven browser ... which Chromium/Chrome *could be* if the folks at AlphaF*** actually wanted to help, *without bending people over* and exposing people to all kinds of CRIMINAL info rookter violations ... in other words, creVass is the open *no, actually, it's REALLY* OPEN kind of *open* source extensible library you can visit without catching something. 
+
+And YOU control the development and infrastructure-as-code, ie you can host the infrusture from your box, laptop, IoT device or even just your Linux/Android phone.
+
+So, unlike your favorite browser, you are not giving someone the bandwidth to hang you with ... it's just pure stream of nothing but txt with no scripting bs that can get into your creVass -- you can shoot pictures, take videos as data inputs for your AI to use -- but everything about the architecture of your creVass can be CLEAN and SECURE ... and a CLEAN creVass means that **NOBODY else will have any reason to have their nose up YOUR private creVass!**
+
+Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of simplistic conspiracy theory crap that everybody sorta knows, but would rather blame on their favorite people to blame stuff on. 
+
+It's not really any different than those engineering handbook instructions used by HVAC installers as kneepads ... when HVAC techs are installing a furnace exhaust wrong ... and it works because the service calls keep coming.
+
+Let's just get to root cause and actually FIX this so that it stays fixed ... along the way, maybe we can ask ourselves why we thought that complexicating and hiding shit was a good idea *but let's not get too political, right off the bat ...*.
+
+Dump your fuzzy syrup-picture AI  
 ================================
 
-**CLEAN IT UP!** *Wipe out the problems ... before you put on the Barry White and add the layers of Aqua Velva.*
+**Knock off the fuzzification!**
 
-*Digest, annotate, simplify, revise, refactor and generally* **improve your curated data!**
+Plumbing has always been about covering up stuff so that nobody knows how that shit goes together.  It's the same with stuff like artificial intelligence or maybe worse. 
 
-Do **not** fuzz up or diffuse your images, audio, text, smells, or tastes.
+Actually, it's pretty simple ... creVass AI is about SIMPLIFICATION, which is tough for people to understand because people like believing things are more complicated than they are.
 
-Dump neurofuzzy syruppy-picture AI  
-==================================
+*Stop just repeating those idiotic excesses of conventional AI approaches.* creVass is not about a text-to-picture app that draws a diagram of how you are going to murder the dumbass who installed your furnace exhaust bassackward!
 
-*Stop just repeating those idiotic excesses of conventional AI approaches.* **THINK** about what you are doing and WHY you are doing it. THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
+Just assess the situation, take some readings, learn how to turn that multimeter on and put batteries in, use the right end of a screwdriver and try to deal with Reality as Reality really is ... and laugh about the NATE-certified idiots out there smoking dope on their way to service calls and using engineering instructions as kneepads because they can't focus on anything long enough to read it.
+
+Mostly, creVass is about helping you to just **THINK** ... to relax and just THINK about what you are doing, *WHY you are doing it,* **WHY you're a loser and your life is fucked and you are always going to be stuck doing this!** 
+
+No ... stop it!  THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
 
 When you are done removing, take a nap, go for a walk, meditate ... then come back and REMOVE SOME MORE ... and then polish and shine and polish and shine and polish and shine to and make sure the smell is gone and the flow will scour clean.
 
