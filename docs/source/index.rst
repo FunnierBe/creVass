@@ -1,56 +1,34 @@
 creVass - Social Plumbing
 =========================
 
-*We can tell by your smile that you are happy to see us ... and we haven't even bent over and exposed any of our cleavage yet!*  
+All of what human technology is about abstractions on top of abstractions on top of more abstractions. AI is not any different from plumbing ... it's not that the stuff is actually smart -- the stuff is obfuscations on top top of obfuscations on top of obfuscation.  
 
-The RSSisant is a game changer in the tired old social network industry ... because it's not about shuffle challenges or night full of s-wiping ... creVass is all about a smart, hypernetworked plumbing RSSistant with an attitude!  
+People want the EASY button ... they just want to call a plumber and have their plumbing or HVAC issue handled, because they believe in the fallacy that "I'm a professional -- I work hard as a professional to pay for plumbers to come over so that my pipes don't freeze and I can crap in water without ever having to think about any part of my biological functions"  
 
-You and reading list will never be a loan again!  
+The SAME thing applies to all other human technology ... the habit is so deeply ingrained that people even believe the same thing about their bodies, their health, their lives ... they are highly-specialized PROFESSIONALS who do not want to be bothered with the details on which their lives depends. 
 
-The creVass RSSistant is a gamechanger ... a lot like when Dave Lennox invented indoor heating so that people could crap in water; they started flushing their turds and became terrified of running out of toilet paper. 
+**creVass RSSistant**
 
-We at creVass claim that our RSSistant will do for lives that are led according to recommendation engines and sentiment analysis what indoor plumbing did for the world of sewage treatment ... it's the kind of explosion that isn't on anyone's radar screen yet. 
+Here's a HINT ... *READ MORE, a lot more and understand what you read by taking responsibility for the details ... understand root cause ... especially the details of your life.*
 
-**creVass is the AI-driven MOVEMENT!**
+The social creVass RSSsistant is an AI-driven intelligence gathering tool ... it's open source, so that you can dogfood your your own intelligence gathering process, including the AI that assists you.
 
-*And the RSSistant the plumbing/HVAC micro-aggression news aggregator you've have been waiting for!*
+The RSSistant navigation interface will be troubleshooting knowledge-graph ... with relevant links to lots of schematics, data sheets, informed commentary along with your own annotations.
 
-Okay, maybe you waiting for a different kind of a movement ... but, this one will not be denied!
+The creVass RSSistant will be completely open source for your development and refinement ... developing creVass will teach you something about artificial intelligence, something about plumbing/HVAC and A LOT about what kind of stuff you just take for granted without really knowing how it works. 
 
-Don't you need an ongoing core dump to cross-fertilize your ideas in ways you didn't foresee, plan or particularly want ... *does a bear shit in the woods?*
+As with plumbing, HVAC and artificial intelligence, the whole exercise is bound to be humbling, disgusting and highly informative ... you can either do it OR you can't.
 
-**creVass is like a plumbing SURPRISE ... except that the RSSistant social ... and thus more crowdly and smarter than you are!**
+It is not going to be easy ... YOU will control the development of your RSSistant as well as the AI infrastructure-as-code which feeds data to your navigational knowledge graph ... you can host the infrusture from your box, laptop, IoT device or even just your Linux/Android phone.
 
-*After slipping some info into your social creVass ... you may never look at two guys uncomfortably crammed into a tight stall in the MSP airport in the same way again ... *
+It's not really any different than the detailed technical information undperinning those engineering handbook and installation instructions which get folded up and used by HVAC installers as kneepads ... most people do not want to know how incredibly fucked up their plumbing/HVAC system is ... for the same reason that people do not want to bother to delve into the realm of artificial intelligence ... and the whole strategy of ditching your responsibility for how your stuff works because your financial accounts keep getting harvested as the service calls keep coming because of your recalcitrant ignorance of things that affect your life.
 
-The social creVass RSSsistant is an AI-driven intell scooper that uses using technical content metadata infused with crowdsourced commentary, which is sorta like StackOverflow, except this is plumbing schematics and other intell, so you know it also has traces of cannabis and some of the good stuff in its UA ... a smartRSS feedreader on AI 'roids.
+You do not have to live in the dark ... you can actually start learning how to get down to root cause and actually FIX this so that it stays fixed ... along the way, maybe we can ask ourselves why we thought that complexicating and hiding shit was a good idea *but let's not get too political, right off the bat ...*.
 
-The RSSistant navigation interface will be troubleshooting knowledge-graph infused with a dose of levity ... lots of schematics and data sheets with just enough humorous asshat commentary from the HVAC tech peanut gallery, to occasionally be unintentionally useful in ways that asshats never understand themselves.
+Do not use fuzzy syrup-picture AI  
+==========+======================
 
-At it's core ... the dump you put into your RSSistant ... is like a tool which YOU configure, but might come back to bite you ... starting with YOUR best Plumbing Intell content feeds ... but also editing in the noise.
-
-The creVass RSSistant will do its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, idiotic YouTube commentary, fora discussions, etc ... 
-
-But it will get disgusting smarter ... learning from YOUR sources, from your CURATED datafeeds, your fuck-ups, your bad relationships, all of the stupid shit that you have gotten yourself into ... to cough up furr balls that are precisely-related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
-
-The AI is there to to help you with troubleshooting, but YOU build the AI and curate/optimize the data/models which drive the answers you pull out of your creVass.
-
-So creVass is somewhat like a more pure, less evil, more helpful, less-annoying, recommendation-engine-driven browser ... which Chromium/Chrome *could be* if the folks at AlphaF*** actually wanted to help, *without bending people over* and exposing people to all kinds of CRIMINAL info rookter violations ... in other words, creVass is the open *no, actually, it's REALLY* OPEN kind of *open* source extensible library you can visit without catching something. 
-
-And YOU control the development and infrastructure-as-code, ie you can host the infrusture from your box, laptop, IoT device or even just your Linux/Android phone.
-
-So, unlike your favorite browser, you are not giving someone the bandwidth to hang you with ... it's just pure stream of nothing but txt with no scripting bs that can get into your creVass -- you can shoot pictures, take videos as data inputs for your AI to use -- but everything about the architecture of your creVass can be CLEAN and SECURE ... and a CLEAN creVass means that **NOBODY else will have any reason to have their nose up YOUR private creVass!**
-
-Sip from creVass every day for your dose of annoying, but obvious intelligence ... the kind of simplistic conspiracy theory crap that everybody sorta knows, but would rather blame on their favorite people to blame stuff on. 
-
-It's not really any different than those engineering handbook instructions used by HVAC installers as kneepads ... when HVAC techs are installing a furnace exhaust wrong ... and it works because the service calls keep coming.
-
-Let's just get to root cause and actually FIX this so that it stays fixed ... along the way, maybe we can ask ourselves why we thought that complexicating and hiding shit was a good idea *but let's not get too political, right off the bat ...*.
-
-Dump your fuzzy syrup-picture AI  
-================================
-
-**Knock off the fuzzification!**
+**Knock off all fuzzification!**  UNDERSTAND root cause from first principles ... ultimately, understanding how the world works will take you down to ab initio chemistry, particle physics and things like string theory.
 
 Plumbing has always been about covering up stuff so that nobody knows how that shit goes together.  It's the same with stuff like artificial intelligence or maybe worse. 
 
@@ -58,34 +36,33 @@ Actually, it's pretty simple ... creVass AI is about SIMPLIFICATION, which is to
 
 *Stop just repeating those idiotic excesses of conventional AI approaches.* creVass is not about a text-to-picture app that draws a diagram of how you are going to murder the dumbass who installed your furnace exhaust bassackward!
 
-Just assess the situation, take some readings, learn how to turn that multimeter on and put batteries in, use the right end of a screwdriver and try to deal with Reality as Reality really is ... and laugh about the NATE-certified idiots out there smoking dope on their way to service calls and using engineering instructions as kneepads because they can't focus on anything long enough to read it.
+You start where you start ... whereever that is ... maybe you want to delve into natural language processing, transformer and diffuser models, tokenizers first -- that's fine, but AI will only give you the appearance of understanding something, without having a clue about how it works from first principles.
 
-Mostly, creVass is about helping you to just **THINK** ... to relax and just THINK about what you are doing, *WHY you are doing it,* **WHY you're a loser and your life is fucked and you are always going to be stuck doing this!** 
+Before long you will also have to spend some time understanding the troubleshooting diagram in your owner's manual OR you might have to find your owner's manual ... then you might learn how to turn that multimeter on and put batteries in OR use the right end of a screwdriver OR understand how pressure switches work and how to check that with your manometer or how a manometer works
 
-No ... stop it!  THINK with intention and discipline. Think outside the fast-food schlocky bun, don't overprocess or *lay on that extra sauce* to obfuscate with irrelevant data ... don't just swallow the same old s*** ... think *fast* ... *remove*, **Remove,** **REMOVE!!!**
+By focusing on the root cause and multiple levels of WHYs behind the intensely practical DETAILS in your life ... you will START to learn things that will help you try to deal with Reality as Reality really is.
 
-When you are done removing, take a nap, go for a walk, meditate ... then come back and REMOVE SOME MORE ... and then polish and shine and polish and shine and polish and shine to and make sure the smell is gone and the flow will scour clean.
+creVass is deeper than you want
+===============================
+
+Most people desperately want to imagine that they are highly specialized PROFESSIONALS who do not have to bother with the details of their lives.
+
+creVass is about making you uncomfortable ... DEVELOPING creVass is all about helping you to just **THINK.** 
 
 PRACTICAL troubleshooting and solving REAL problems is about using clarity to remove ADDICTION ... bad data just like extra drugs makes addiction, the side-effects and the addictions to the drugs for the side-effects worse ... **GET CLEAN** *or die*.
 
 
-Genuine intelligence all comes down to the CLEAVAGE of REMOVAL.
-===============================================================
+Genuine intelligence first involves REMOVAL
+===========================================
 
-Stop searching for another obfuscation, another imaginary fix, another drug, another product, another comfortable addiction. If you want to REALLY get at the solution a problem, you cannot simply cover it or worse automate your the covering in your litter box.
+Artificial intelligence never provides any legitimate answers ... because NOBODY really wants to check an AI algorithm's math, ie they want to make horrendoously incorrect, ridiculously generous assumptions and then kick off a complexicated AI model running on rooms full of GPUs ... this is why, UNLESS people are more genuinely curious and ask more levels of WHY, they will be like part-swapping flunkees who never actually understand how things work ... in other words, it's now safe to predict that the more that AI is used, the more irrelevance it will produce because it will enable people to distract themselves from having a clue about what's actually going on ... just like bad design engineering or parts swappers, AI will just bolt on another set of parts like more combustion air inducers, pressure switches, sensors and control boards which prevent people from understanding how gas burns in their homes.
 
-You must start by removing, CLEAVING, hack stuff out of the away to get down to where the VALUE is ... getting down in the Big V is about what really understanding what is making things smell.
-
-After you actually understand the problem ... don't cover it up with a bandaid ... cleaning it up, polish it, make it shine so that you can see what is not shining ... make it extra CLEAN, extra shiny so that it is scrubbale and MAINTAINABLE.
-People want to crap in something that is CLEAN, tightly refactored and and something that can get even CLEANER with more use.
 
 GET DOWN INTO THE INTERNALS
 ===========================
 
 
-You have to get down into the deep Whys of why things happen ... or, else you're just fuzzying up your networks of neurotic neurosis ... putting your diffuser bandaid on things does not reveal anything -- you're transforming the problem into a more impenetrable clusterfuck of complexification ... it might be ugly, but somebody is going to have to clean up the mess you  made!
-
-Stop making all kinds of things worse with your ARTIFICIAL intelligence ... everyone can see that sort of intelligence is completely artificial in so many different dimensions ... knock it the fuck off with the obfuscations already.
+You have to get down into the deep Whys of why things happen ... or, else you're just fuzzying up your networks of neurotic neurosis ... putting your diffuser bandaid on things does not reveal anything -- you're transforming the problem into a more impenetrable clusterfuck of complexification ... somebody is going to have to clean up the complexicated mess you made ... so knock it the fuck off with the obfuscations already.
 
 Think *fast* ... *remove*, **Remove,** **REMOVE!!!**
 
