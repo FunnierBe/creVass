@@ -9,7 +9,7 @@ You and reading list will never be a lone again!
 
 The creVass RSSistant is a gamechanger ... a lot like when Dave Lennox invented indoor heating so that people could crap in water; they started flushing their turds and became terrified of running out of toilet paper. 
 
-We at creVass claim that our RSSistant will do for lives that are led according to recommendation engines and sentiment analysis what indoor plumbing did for the world of real estate. 
+We at creVass claim that our RSSistant will do for lives that are led according to recommendation engines and sentiment analysis what indoor plumbing did for the world of sewage treatment ... it's the kind of explosion that isn't on anyone's radar screen yet. 
 
 **creVass is the AI-driven MOVEMENT!**
 
