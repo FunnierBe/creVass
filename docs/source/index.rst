@@ -5,7 +5,7 @@ All of what human technology is about abstractions on top of abstractions on top
 
 People want the EASY button ... they just want to call a plumber and have their plumbing or HVAC issue handled, because they believe in the fallacy that "I'm a professional -- I work hard as a professional to pay for plumbers to come over so that my pipes don't freeze and I can crap in water without ever having to think about any part of my biological functions"  
 
-The SAME thing applies to all other human technology ... the habit is so deeply ingrained that people even believe the same thing about their bodies, their health, their lives ... they are highly-specialized PROFESSIONALS who do not want to be bothered with the details on which their lives depends. 
+The SAME thing applies to all other human technology ... but now, the habit of detail hiding is so deeply ingrained that people even believe they can use the same approach when it comes their bodies, their health/fitness, their doctors appointments, the pills they swallow, their personal security or self-defense, their lives ... they are highly-specialized PROFESSIONALS who do not want to be bothered with the nasty details on which their lives depends. 
 
 **creVass RSSistant**
 
