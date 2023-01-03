@@ -1,14 +1,17 @@
-The Big V is for creVass
-========================
+creVass - Plumbing RSSistant
+============================
 
-When somebody flashes the *Big V* sign with their two fingers ... it's semiotics, a sign ... you know that person is hip to the creVass jiVe! It's sort of like genuflection or some sort of shibboleth of being ultra-well-informed, eg like an NPR coffee mug ... if you don't want to use your fingers, bend over show the heathens your creVass ...** flash the Big V!**  
+*We can tell by your smile that you are happy to see us ... and we haven't even bent over and exposed all of our cleavage yet!*  
 
+You might be thinking, "Whoa, Mister! This is already too much for me; I feel like gagging ... no not A** ... RSSistant starts with an R!*"
 
-*You can relax, take a deep breath, maybe let your trousers ride a few inches lower ... let the pride of knowing glow from your creVass.* 
+**creVass is an AI-driven plumbing/HVAC micro-aggression framework.**
 
-Because we haven't even bent over and exposed all of our cleavage yet!  You might be thinking, "This is already enough for me ... but, you know *there's MORE!*"
+It's about news aggregation and content metadata ... a smartRSS feedreader on AI 'roids ... something of a troubleshooting knowledge graph app crossed with humorous comments from the peanut gallery, which occasionally happen to be useful.
 
-*creVass* is an AI-driven plumbing/HVAC micro-aggression framework ... it's an RSS feed newsreader on AI steroids ... it's YOUR troubleshooting app crossed with a newsreader with YOUR content feeds ... it will go about its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, fora discussions, etc ... but from YOUR sources, from your CURATED datafeeds, to be precisely-related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
+This is an RSSistant with YOUR best Plumbing Intell content feeds ... it will do its business [working in the background, like a progressive web app fetching content from a CDN] getting you YOUR **detailed** intell, eg schematics, techdox, idiotic YouTube commentary, fora discussions, etc ... 
+
+But it will get disgusting smarter ... learning from YOUR sources, from your CURATED datafeeds, your fuck-ups, your bad relationships, all of the stupid shit that you have gotten yourself into ... to cough up furr balls that are precisely-related to what you are working on ... and when your creVass is not as sweet and clean as you want it to be, you are in control of making it sweeter and cleaner.
 
 The AI is there to to help you with troubleshooting, but YOU build the AI and curate/optimize the data/models which drive the answers you pull out of your creVass.
 
